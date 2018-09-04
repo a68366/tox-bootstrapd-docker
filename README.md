@@ -1,5 +1,4 @@
-[![Docker Build Status](https://img.shields.io/docker/build/nyoroon/tox-bootstrapd.svg)](https://hub.docker.com/r/nyoroon/tox-bootstrapd/)
-[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/nyoroon/tox-bootstrapd/latest.svg)](https://hub.docker.com/r/nyoroon/tox-bootstrapd/)
+[![](https://images.microbadger.com/badges/image/a68366/tox-bootstrapd.svg)](https://hub.docker.com/r/a68366/tox-bootstrapd)
 
 # Dockerized tox-bootstrapd based on Alpine linux
 
