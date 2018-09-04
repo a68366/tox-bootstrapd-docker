@@ -24,7 +24,7 @@ FROM alpine:latest
 RUN adduser -h /var/lib/tox-bootstrapd -S -s /sbin/nologin tox-bootstrapd
 
 # install run deps
-RUN apk add --no-cache libsodium libconfig bash jq curl
+RUN apk add --no-cache libsodium libconfig bash curl
 
 # add empty config
 RUN touch /etc/tox-bootstrapd.conf \
