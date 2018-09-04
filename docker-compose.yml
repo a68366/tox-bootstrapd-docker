@@ -3,7 +3,7 @@ version: '2'
 services:
   app:
     container_name: tox-bootstrapd
-    image: nyoroon/tox-bootstrapd
+    image: a68366/tox-bootstrapd
     restart: unless-stopped
     build: .
     env_file: .env
